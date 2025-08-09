@@ -42,6 +42,7 @@ An interactive Excel dashboard designed to visualize and analyze Wipro’s emplo
 Feel free to fork the repo and suggest improvements or new visualizations. Pull requests are welcome!
 
 
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](
 
-© 2025 Rushikesh | [GitHub Repository](https://github.com/rushikesh2003-ship-it/EMPLOYEE-DATABASE-EXCEL-DASHBOARD)
 
